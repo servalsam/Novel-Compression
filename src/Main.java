@@ -13,7 +13,7 @@ import java.util.stream.Stream;
  * Main driver class that runs the Huffman Tree algorithm on
  * various literature text files.
  *
- * @author Samuel Wainright, swain91@uw.edu
+ * @author Samuel Servane, swain91@uw.edu
  * @version 24 May 2019
  */
 public class Main {
