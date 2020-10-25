@@ -7,7 +7,7 @@ import java.util.ArrayList;
  * stored and linked to a key. This implementation permits null keys and
  * null values. There is no guarantee of the order in the structure.
  *
- * @author Samuel Wainright, swain91@uw.edu
+ * @author Samuel Servane, swain91@uw.edu
  * @version 24 May 2019
  */
 class MyHashTable<K, V> {
