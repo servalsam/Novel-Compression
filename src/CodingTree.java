@@ -8,7 +8,7 @@ import java.util.*;
  * encoding algorithm. Encodes a table of binary strings which correspond
  * to a character's location within the Huffman tree and the steps to proceed to the location.
  *
- * @author Samuel Wainright
+ * @author Samuel Servane
  * @version 24 May 2019
  */
 class CodingTree {
